@@ -2,8 +2,8 @@
 
 <h3 align=center style="font-size: 36px">Blog</h3>
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px">
-  <div align=center><a href="https://www.naver.com/">https://gridy.tistory.com</a></div>
-  <div align=center><a href="https://www.naver.com/">https://blog.soboru.kr</a></div>
+  <div align=center><a href="https://gridy.tistory.com/">https://gridy.tistory.com</a></div>
+  <div align=center><a href="https://blog.soboru.kr/">https://blog.soboru.kr</a></div>
 </div>
 
 <h3 align=center style="font-size: 36px">Tech Stack</h3>
