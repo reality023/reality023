@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/React_Query-purple?style=for-the-badge&logo=react-query&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
 </div>
 
 <div>
