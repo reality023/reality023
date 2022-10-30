@@ -2,8 +2,9 @@
 
 <h3 align=center style="font-size: 36px">Blog</h3>
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px">
-  <div align=center><a href="https://gridy.tistory.com/">https://gridy.tistory.com</a></div>
-  <div align=center><a href="https://blog.soboru.kr/">https://blog.soboru.kr</a></div>
+  <div align=center>
+    <a href="https://gridy.tistory.com/"><img src="https://img.shields.io/badge/Gridy%20Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
+  </div>
 </div>
 
 <h3 align=center style="font-size: 36px">Tech Stack</h3>
@@ -32,7 +33,7 @@
   <br>
   <img src="https://img.shields.io/badge/React_Query-purple?style=for-the-badge&logo=react-query&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind&nbsp;CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
 </div>
 
