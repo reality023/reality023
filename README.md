@@ -3,7 +3,7 @@
 <h3 align=center style="font-size: 36px">Blog</h3>
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px">
   <div align=center>
-    <a href="https://gridy.tistory.com/"><img src="https://img.shields.io/badge/Gridy%20Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
+    <a href="https://gridy.tistory.com/"><img src="https://img.shields.io/badge/Gridy-444444?style=for-the-badge&logo=Tistory&logoColor=white"></a>
   </div>
 </div>
 
