@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Subong%20Park&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Gridy%20GitHub&descAlignY=60&descAlign=62)
 
 <h3 align=center style="font-size: 36px">Blog</h3>
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px">
