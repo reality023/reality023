@@ -5,12 +5,18 @@
   <div align=center>
     <a href="https://gridy.tistory.com/"><img src="https://img.shields.io/badge/Gridy-444444?style=for-the-badge&logo=Tistory&logoColor=white"></a>
   </div>
+  <div align=center>
+    <a href="https://blog.gridy.kr"><img src="https://img.shields.io/badge/Gridy-444444?style=for-the-badge&logo=WordPress&logoColor=white"></a>
+  </div>
 </div>
 
 <h3 align=center style="font-size: 36px">Github Project</h3>
 
 <div align=center>
-  <a href="https://gridy.tistory.com/"><img src="https://img.shields.io/badge/Gridy's%20Project%20Organization-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a href="https://github.com/gridy-project"><img src="https://img.shields.io/badge/Moum-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+</div>
+<div align=center>
+  <a href="https://github.com/gridy-project"><img src="https://img.shields.io/badge/Feedback-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 </div>
 
 
