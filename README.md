@@ -8,6 +8,20 @@
 ![reality023's github stats](https://github-readme-stats.vercel.app/api?username=reality023&show_icons=true)
 
 </div>
+
+<h3 style="font-size: 24px">프로젝트</h3>
+
+<div>
+  <a href="https://github.com/gridy-project/moum"><img src="https://img.shields.io/badge/MOUM-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+</div>
+<div>
+  <a href="https://github.com/TTWord/DanuhWeb"><img src="https://img.shields.io/badge/DANUH&nbsp;Web(Frontend)-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+</div>
+<div>
+  <a href="https://github.com/TTWord/DanuhServer"><img src="https://img.shields.io/badge/DANUH&nbsp;SERVER(Backend)-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+</div>
+
+
 <h3 style="font-size: 36px">Tech Stack</h3>
 
 <div>
@@ -29,22 +43,4 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
-</div>
-
-<h3 style="font-size: 24px">Github Project</h3>
-
-<div>
-  <a href="https://github.com/gridy-project"><img src="https://img.shields.io/badge/Moum-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-</div>
-<div>
-  <a href="https://github.com/gridy-project"><img src="https://img.shields.io/badge/Feedback-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-</div>
-<div>
-  <a href="https://github.com/gridy-project"><img src="https://img.shields.io/badge/DANUH-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-</div>
-<div>
-  <a href="https://github.com/gridy-project"><img src="https://img.shields.io/badge/FOCUSMATE-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
-</div>
-<div>
-  <a href="https://github.com/gridy-project"><img src="https://img.shields.io/badge/PUZZLY-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 </div>
